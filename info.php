@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+/*echo "My first PHP script!";
 $a=5;
 $b=6;
 ?>
@@ -14,7 +14,14 @@ $b=6;
 <?php $a = 3;
 $b = $a; // $b, $a'ya bir gönderimdir
 print "$a\n"; // 3 basar
-print "$b\n"; // 3 basar ?>
+print "$b\n"; // 3 basar*/
+
+$sayi= $_GET["sayi"];
+echo "SAYI değişkeninin değeri: $sayi";
+
+
+
+ ?>
 
 
 
