@@ -5,6 +5,6 @@ $arrkisiler = file("kisiler.txt");
 
 print_r($arrkisiler);
 
-echo "wwwx";
+echo "wwwzzzzzzzzzzzzzzx";
 
  ?>
